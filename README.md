@@ -18,10 +18,6 @@ We will analyze the Image data based on vegetation that is greenery. More the ve
 
 ##### Project Duration       : 6 Weeks
 ##### Tools/Technology Used: : R Pogramming,HTML5,CSS3,R Studio,Sublime Text,Tableau,Windows 10 Environment
-##### Refrence & Data Source : https://search.earthdata.nasa.gov
-	                       https://earthexplorer.usgs.gov/
-	                       http://neondataskills.org/R/Raster-Data-In-R/
-	                       http://www.naturalearthdata.com/
-	                       https://earthdatascience.org
-	                       https://www.r-project.org/other-docs.html
-                               https://www.star.nesdis.noaa.gov/star/index.php
+##### Refrence & Data Source : https://search.earthdata.nasa.gov  |  https://www.star.nesdis.noaa.gov/star/index.php  |  http://neondataskills.org/R/Raster-Data-In-R/  |  https://earthexplorer.usgs.gov/
+	                  
+                               
