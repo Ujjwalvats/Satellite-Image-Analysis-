@@ -17,7 +17,7 @@ Tools which we are using for our project is R Studio for doing R programming, Ta
 We will analyze the Image data based on vegetation that is greenery. More the vegetation more will be the food produced and vice versa. The Vegetation could definitely contribute the impact to the annual agricultural production. That is why we have chosen vegetation as a parameter to judge greenness and hence agricultural production.
 
 ##### Project Duration       : 6 Weeks
-##### Tools/Technology Used: : R Pogramming,HTML5,CSS3,R Studio,Sublime Text,Tableau,Windows 10 Environment
-##### Refrence & Data Source : https://search.earthdata.nasa.gov  |  https://www.star.nesdis.noaa.gov/star/index.php  |  http://neondataskills.org/R/Raster-Data-In-R/  |  https://earthexplorer.usgs.gov/
+##### Tools/Technology Used  : R Pogramming,HTML5,CSS3,R Studio,Sublime Text,Tableau,Windows 10 Environment
+##### Refrence & Data Source : https://search.earthdata.nasa.gov    |    https://www.star.nesdis.noaa.gov/star/index.php    |    http://neondataskills.org/R/Raster-Data-In-R/    |    https://earthexplorer.usgs.gov/
 	                  
                                
