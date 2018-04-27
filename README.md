@@ -15,3 +15,13 @@ Our project Titled Satellite Imagery Analysis for Predicting Food Supply in our 
 production and an area where the same is less.The whole concept of the project is based on the data science and various types of data analytics technique will be used in our project.
 Tools which we are using for our project is R Studio for doing R programming, Tableau for getting initial overview of our country food supply data and if possible we would like to present our project in the form of web report. In R studio we will analyze different form of the Image data and see the color correlation within different images. We will use Windows environment to run all required software. We will make use of various R packages to do our project.
 We will analyze the Image data based on vegetation that is greenery. More the vegetation more will be the food produced and vice versa. The Vegetation could definitely contribute the impact to the annual agricultural production. That is why we have chosen vegetation as a parameter to judge greenness and hence agricultural production.
+
+##### Project Duration       : 6 Weeks
+##### Tools/Technology Used: : R Pogramming,HTML5,CSS3,R Studio,Sublime Text,Tableau,Windows 10 Environment
+##### Refrence & Data Source : * https://search.earthdata.nasa.gov
+	                       * https://earthexplorer.usgs.gov/
+	                       * http://neondataskills.org/R/Raster-Data-In-R/
+	                       * http://www.naturalearthdata.com/
+	                       * https://earthdatascience.org
+	                       * https://www.r-project.org/other-docs.html
+                               * https://www.star.nesdis.noaa.gov/star/index.php
