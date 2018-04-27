@@ -1,5 +1,5 @@
-<p align="center"># Satellite Image Analysis </p>
-<center>### For Predicting Food Supply In India</center>
+# <p align="center"> Satellite Image Analysis </p>
+### <p> For Predicting Food Supply In India</p>
 
 #### Visit Our Project Website : http://minorproject.gq/ 
 
